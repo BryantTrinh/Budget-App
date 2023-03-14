@@ -63,6 +63,7 @@ body{
   box-shadow: 0 0.5em 1.5em rgba(28, 0, 80, 0.06)
   margin: 2em 0;
   padding: 1.5em;
+  text-align: center;
 }
 
 .output-container p{
